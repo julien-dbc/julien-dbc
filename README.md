@@ -22,7 +22,7 @@ I am an engineering student at **SeaTech**, passionate about the intersection of
 
 ### 🚀 Featured Engineering Projects
 
-#### 🏎️ TurtleBot Autonomous Navigation
+#### 🏎️ TurtleBot Autonomous Navigation (https://github.com/julien-dbc/TurtleBot_Autonomous_Navigation)
 
 <video src="https://github.com/user-attachments/assets/dbb1b983-a50e-456b-9680-403d112be37f" width="600" controls="controls"></video>
 
@@ -31,7 +31,7 @@ I am an engineering student at **SeaTech**, passionate about the intersection of
 * 🛠️ **Solution:** Developed a navigation stack using ROS and Python within a Gazebo simulation. Implemented a robust State Machine processing Lidar data for dynamic path planning and managing physical collisions via bumper sensors.
 * 📈 **Impact:** Achieved reliable autonomous movement and collision avoidance, demonstrating strong proficiency in standard robotics frameworks.
 
-#### 🕹️ Autonomous Mobile Robot Control
+#### 🕹️ Autonomous Mobile Robot Control (https://github.com/julien-dbc/Embedded-Autonomous-Robot)
 
 <video src="https://github.com/user-attachments/assets/f55e6316-31b7-4a02-b46a-e93c1cc03174" width="600" controls="controls"></video>
 
@@ -40,7 +40,7 @@ I am an engineering student at **SeaTech**, passionate about the intersection of
 * 🛠️ **Solution:** Programmed an embedded control architecture in C using MPLAB X. Configured Microchip peripherals (ADC, Timers) and managed hardware interrupts. Designed an obstacle avoidance algorithm aggregating data from 5 telemeter sensors.
 * 📈 **Impact:** Delivered a fully functional embedded system capable of real-time sensor processing and autonomous spatial awareness.
 
-#### 🚗 Vehicle Dynamics Simulator
+#### 🚗 Vehicle Dynamics Simulator (https://github.com/julien-dbc/Vehicle-Dynamics-Simulator)
 
 <video src="https://github.com/user-attachments/assets/805dbea0-651d-4d2a-835d-6aba53c30638" width="600" controls="controls"></video>
 
@@ -49,7 +49,7 @@ I am an engineering student at **SeaTech**, passionate about the intersection of
 * 🛠️ **Solution:** Designed a custom simulation application using MATLAB App Designer. Implemented mathematical physics models to calculate trajectory, lateral acceleration, yaw rate, and drift across multiple scenarios (dry, wet, ice).
 * 📈 **Impact:** Provided a scalable UI to simulate rollover risks and handling characteristics for city cars, SUVs, and hovercrafts.
 
-#### 🧠 AI for Hexapawn (Reinforcement Learning)
+#### 🧠 AI for Hexapawn (Reinforcement Learning) (https://github.com/julien-dbc/Hexapawn-Reinforcement-Learning)
 
 <video src="https://github.com/user-attachments/assets/7300855c-6a6c-47d1-8aae-f0546701b2e7" width="600" controls="controls"></video>
 
