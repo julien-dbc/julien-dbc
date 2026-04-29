@@ -20,7 +20,16 @@ I am an engineering student at **SeaTech**, passionate about the intersection of
 
 ---
 
-### 🚀 Featured Engineering Projects
+### 🚀 Engineering Projects
+
+#### 🌊 AI-Powered 3D Tracking for ROV (https://github.com/Projet-BlueROV-Seatech)
+
+<video src="https://github.com/user-attachments/assets/732c6a01-8a03-44a0-8646-d0f07517a89c" width="600" controls="controls"></video>
+
+* **Tech Stack:** `Python`, `Computer Vision (OpenCV)`, `YOLOv8`, `Qualisys
+* 🎯 **Challenge:** Develop a low-cost, markerless alternative to expensive industrial motion capture systems (Qualisys) to track the 3D trajectory of an underwater robot in a test basin.
+* 🛠️ **Solution:** Built a complete Python pipeline. Trained a YOLOv8 model for robust object detection in a distorted aquatic environment. Implemented multi-camera calibration (OpenCV, ArUco) and a stereoscopic 3D triangulation algorithm using the least squares method.
+* 📈 **Impact:** Achieved a tracking precision of ~4.7 cm at a 3-meter distance, validated against the Qualisys ground truth. The project was highly praised by the COSMER lab jury for its technical viability and commercial potential.
 
 #### 🏎️ TurtleBot Autonomous Navigation (https://github.com/julien-dbc/TurtleBot_Autonomous_Navigation)
 
