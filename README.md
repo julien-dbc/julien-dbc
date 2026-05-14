@@ -2,7 +2,7 @@
   <h1>🤖 Hi, I'm Julien Dubuc!</h1>
   <p><i>Engineering Student @ SeaTech | Mechatronics, Robotics & Embedded AI</i></p>
 
-  <a href="https://julien-dbc.github.io/portfolio/" target="_blank">
+  <a href="https://julien-dubuc.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Live_Portfolio-Check_it_Out-00D4FF?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/julien-dubuc14" target="_blank">
