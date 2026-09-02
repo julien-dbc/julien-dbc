@@ -22,6 +22,18 @@ I am an engineering student at **SeaTech**, passionate about the intersection of
 
 ### 🚀 Engineering Projects
 
+#### 🦾 Underactuated & Sensorized Compliant Gripper (https://github.com/julien-dubuc/Compliant-Gripper-Etextiles)
+
+<video src="https://github.com/user-attachments/assets/a5e4f2ed-cde3-4614-a94c-cf80aefb9de2" width="600" controls="controls"></video>
+
+* **Tech Stack:** `Soft Robotics`, `CAD (Onshape)`, `3D Printing`, `SimScale (FEA)`, `Arduino`, `E-textiles`
+* 🎯 **Challenge:** Traditional industrial grippers struggle with fragile objects due to their rigidity and high energy consumption. Previous soft gripper designs in the lab used springs, which caused violent releases and wasted energy.
+* 🛠️ **Solution:** Designed and 3D-printed a low-cost, underactuated soft gripper. Developed a passive self-locking system using a worm screw to allow controlled release. Optimized the finger geometry to fix mechanical buckling using SimScale FEA
+
+
+
+. Characterized and integrated embroidered e-textile sensors on the fingers to provide tactile feedback.
+* 📈 **Impact:** Achieved safe grasping and held objects without consuming continuous power (zero watts). Reached a 100% detection success rate on fragile objects and reduced the manufacturing cost to 1.35 € with only 2 printed parts. The system was successfully validated using an OptiTrack motion capture system and integrated onto a robotic arm.
 #### 🌊 AI-Powered 3D Tracking for ROV (https://github.com/Projet-BlueROV-Seatech)
 
 <video src="https://github.com/user-attachments/assets/732c6a01-8a03-44a0-8646-d0f07517a89c" width="600" controls="controls"></video>
