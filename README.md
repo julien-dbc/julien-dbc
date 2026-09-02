@@ -1,3 +1,5 @@
+
+
 <div align="center">
   <h1>🤖 Hi, I'm Julien Dubuc!</h1>
   <p><i>Engineering Student @ SeaTech | Mechatronics, Robotics & Embedded AI</i></p>
@@ -22,13 +24,13 @@ I am an engineering student at **SeaTech**, passionate about the intersection of
 
 ### 🚀 Engineering Projects
 
-#### 🦾 Underactuated & Sensorized Compliant Gripper (https://github.com/julien-dubuc/Compliant-Gripper-Etextiles)
+#### 🦾 Sensorized Compliant Gripper (https://github.com/julien-dubuc/Compliant-Gripper-Etextiles)
 
-<video src="https://github.com/user-attachments/assets/a5e4f2ed-cde3-4614-a94c-cf80aefb9de2" width="600" controls="controls"></video>
+<video src="https://github.com/user-attachments/assets/0fb9064f-4c5a-48e0-bed2-30afb5b9e9d7" width="600" controls="controls"></video>
 
 * **Tech Stack:** `Soft Robotics`, `CAD (Onshape)`, `3D Printing`, `SimScale (FEA)`, `Arduino`, `E-textiles`
 * 🎯 **Challenge:** Traditional industrial grippers struggle with fragile objects due to their rigidity and high energy consumption. Previous soft gripper designs in the lab used springs, which caused violent releases and wasted energy.
-* 🛠️ **Solution:** Designed and 3D-printed a low-cost, underactuated soft gripper. Developed a passive self-locking system using a worm screw to allow controlled release. Optimized the finger geometry to fix mechanical buckling using SimScale FEA
+* 🛠️ **Solution:** Designed and 3D-printed a low-cost, soft gripper. Developed a passive self-locking system using a worm screw to allow controlled release. Optimized the finger geometry to fix mechanical buckling using SimScale FEA
 
 
 
